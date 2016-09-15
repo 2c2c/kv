@@ -1,4 +1,3 @@
 # KvUmbrella
 
-**TODO: Add description**
-
+work through of the key value store tutorial on elixir-lang's webpage.
